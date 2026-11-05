@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo 待办"
+  short_description: "管理个人 Todo 的任务、分组、日期提醒、垃圾箱及重复任务完成记录"
+  default_prompt: "使用 $todo 查看我的待办，并按我的要求添加、修改或完成任务。"

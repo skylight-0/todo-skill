@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+config*.json
+todo-sync*.json
+state/
+.state/
+state.json
+*.sqlite*
+*.db
+*.db-*
+target/
+*.log
